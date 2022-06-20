@@ -1,10 +1,12 @@
 # Hemlo, jpngeekudin here!
 
 ## Passionate Developer Serabutan
+I am a Web Developer. Currently learning about web3 on Solana Network.
 
-## Usually working with these tools
-- í² NodeJS
-- íµ°ï¸ Angular
-- í¾¨ Sass
-- íº ReactJS
-- and more
+## Usually working with these amazing tools
+- ğŸ’ NodeJS
+- ğŸ…°ï¸ Angular
+- ğŸ¨ Sass
+- ğŸª ReactJS
+- ğŸ“± Flutter
+- and more.
