@@ -1,7 +1,7 @@
 # Hemlo, jpngeekudin here!
 
-`Passionate Developer Serabutan ✨`
-I am a Web Developer. Currently learning about web3 on Solana Network.
+`Developer Serabutan ✨`
+Web Developer, like to learn and build something, especially on Software Development.
 
 ## Usually working with these amazing tools
 - 💎 NodeJS
